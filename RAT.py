@@ -18,8 +18,8 @@ import webbrowser
 from telebot import types
 
 
-bot_token = 'BOT:TOKEN'
-chat_id = 'YOUR_CHAT_ID'
+bot_token = '8101208018:AAGW3n70HCSJuE37cl3e928crw-ZRC6lWuw'
+chat_id = '5903795872'
 
 bot = telebot.TeleBot(bot_token)
 
